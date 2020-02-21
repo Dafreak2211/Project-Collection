@@ -9,4 +9,4 @@ I. Clone
 II. Personal:
 - https://haitran1999.github.io/My-website/
 - https://se-projectt.herokuapp.com/
-- https://movieinfo22.netlify.com/  
+- https://moviesinfo.netlify.com/  
